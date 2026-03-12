@@ -11,6 +11,7 @@ A Telegram bot for tracking and analyzing school grades — built by a student, 
 - 🔍 `/insight` — smart analysis: best/worst day, growth trend, stable subjects
 - 📤 `/import` — upload CSV (`subject, grade`) to bulk-import
 - 🗓 `/today` — today’s grades
+- ✅ `/export`  Export data to CSV
 
 ## 📸 Screenshots
 
@@ -51,3 +52,4 @@ And because you deserve a tool that *works* — not just “hello world”.
 
 
 Made with ❤️ by a 12-year-old engineer.
+
