@@ -12,6 +12,16 @@ A Telegram bot for tracking and analyzing school grades — built by a student, 
 - 📤 `/import` — upload CSV (`subject, grade`) to bulk-import
 - 🗓 `/today` — today’s grades
 
+## 📸 Screenshots
+
+![Adding grades](screenshots/gradebot_add.png)
+![Statistics](screenshots/gradebot_stats.png)
+![Progress graph](screenshots/gradebot_graph.png)
+![export](screenshots/gradebot_export.png)
+![start message](screenshots/gradebot_start.png)
+![help](screenshots/gradebot_help.png)
+![import](screenshots/gradebot2.0_import.png)
+
 ## Tech Stack
 - Python 3.8+
 - `telebot` (pyTelegramBotAPI)
@@ -38,5 +48,6 @@ python bot.py
 ## Why?
 Because learning should be measurable.
 And because you deserve a tool that *works* — not just “hello world”.
+
 
 Made with ❤️ by a 12-year-old engineer.
