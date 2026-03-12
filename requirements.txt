@@ -1,0 +1,4 @@
+﻿pyTelegramBot API
+python-dotenv
+maplotlib
+pandas
